@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer type='person'>
+	<email>koelblandreas@gentoo.org</email>
+	<name>Andreas Kölbl</name>
+</maintainer>
+<maintainer type="project">
+	<email>github@larsflitter.de</email>
+</maintainer>
+</pkgmetadata>
